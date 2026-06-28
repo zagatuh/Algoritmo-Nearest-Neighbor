@@ -5,7 +5,7 @@
 
 Este é um código capaz de calcular uma rota eficiente (não a melhor) de entregas em um ou mais pontos.
 Atráves de coordenadas X e Y inseridas pelo usúario (pode ser executado juntamente com o arquivo entradas1.txt),
-é calculado a entrega mais próxima não visitada, no o programa fim volta ao ponto de origem. 
+é calculado a entrega mais próxima não visitada, no fim o programa volta ao ponto de origem. 
 
 ## O que eu vou achar?
 
