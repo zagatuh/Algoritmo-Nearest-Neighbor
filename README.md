@@ -19,15 +19,13 @@ Atráves de coordenadas X e Y inseridas pelo usúario (pode ser executado juntam
 Utilize o CMD e vá até a pasta onde está localizada o programa e digite:
 ```
 gcc main.c -o main
-```
-```
+
 main.exe
 ```
 Utilizando o arquivos entradas1.txt fica:
 ```
 gcc main.c -o main
-```
-```
+
 main.exe < entradas1.txt
 ```
 
