@@ -17,12 +17,19 @@ Atráves de coordenadas X e Y inseridas pelo usúario (pode ser executado juntam
 ## Como compilar
 
 Utilize o CMD e vá até a pasta onde está localizada o programa e digite:
+```
 gcc main.c -o main
+```
+```
 main.exe
-
+```
 Utilizando o arquivos entradas1.txt fica:
+```
 gcc main.c -o main
+```
+```
 main.exe < entradas1.txt
+```
 
 O resultado esperado (caso utilize o entradas1.txt) é que o "Percurso Total" seja 43.69km
 
